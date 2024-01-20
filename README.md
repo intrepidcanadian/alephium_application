@@ -1,3 +1,6 @@
-# alephium_application
+# Alephium Community Ambassador Application
 
-Recommendation Letter
+Attached in Repository
+- Resume
+- Recommendation Letter
+
